@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="menu_delete_all">Delete all notes</string>
+    <string name="menu_add_note">Add note</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_edit">Edit</string>
+    <string name="permission_storage">The application must permission</string>
+    <string name="activity_main">My notes</string>
+    <string name="activity_create_note">Create note</string>
+    <string name="activity_change_note">Change note</string>
+    <string name="activity_show_note">Show note</string>
+    <string name="structure_name">Title</string>
+    <string name="structure_main">Text</string>
+    <string name="error_text_null">text is null</string>
+    <string name="createnotes_dialog_title">Close?</string>
+    <string name="createnotes_dialog_text">The data will not be saved</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_close">Cancel</string>
+    <string name="main_dialog_title">Delete all notes?</string>
+    <string name="main_dialog_title2">Delete its note?</string>
+    <string name="created">Created:</string>
+    <string name="change">Change:</string>
+    <string name="error_loading">Error loading photo</string>
+    <string name="path">path:</string>
+    <string name="notes_not_found">Notes not found</string>
+    <string name="Loading_notes">Loading notes...</string>
+</resources>
